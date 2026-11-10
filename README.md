@@ -34,7 +34,7 @@ Requirements:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/StardewFairySearcher.git
+git clone https://github.com/tiehu/StardewFairySearcher.git
 cd StardewFairySearcher
 ```
 
